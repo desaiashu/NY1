@@ -1,7 +1,7 @@
 {
   "zaaa": {
     "id": "zaaa",
-    "trackId": "noz",
+    "trackId": "taa",
     "name": "1-Am - Tisnat_Moonrock [2023-04-26 195658] - clip",
     "startBeat": 0.0,
     "lengthBeats": 62.0,
@@ -10,7 +10,7 @@
       "type": "Midi",
       "notes": [
         {
-          "id": "hlptyg",
+          "id": "tkouhx",
           "note": 55,
           "velocity": 100,
           "beat": 0.0,
@@ -18,7 +18,7 @@
           "channel": 0
         },
         {
-          "id": "hlpxav",
+          "id": "tkorkg",
           "note": 55,
           "velocity": 100,
           "beat": 1.0,
@@ -26,7 +26,7 @@
           "channel": 0
         },
         {
-          "id": "hlpvns",
+          "id": "tkopxv",
           "note": 55,
           "velocity": 100,
           "beat": 2.0,
@@ -34,7 +34,7 @@
           "channel": 0
         },
         {
-          "id": "hlpvnz",
+          "id": "tkooke",
           "note": 55,
           "velocity": 100,
           "beat": 3.0,
@@ -49,7 +49,11 @@
     "fadeInBeats": 0.0,
     "fadeOutBeats": 0.0,
     "fadeCurve": 1.0,
-    "loopEnabled": false,
+    "loopEnabled": true,
+    "loopRegion": {
+      "startBeats": 0.0,
+      "endBeats": 4.0
+    },
     "reversed": false,
     "swing": {
       "amount": 0.0,
@@ -58,7 +62,7 @@
   },
   "zaab": {
     "id": "zaab",
-    "trackId": "noz",
+    "trackId": "taa",
     "name": "1-Am - Tisnat_Moonrock [2023-04-26 195658] - clip",
     "startBeat": 64.0,
     "lengthBeats": 32.0,
@@ -67,7 +71,7 @@
       "type": "Midi",
       "notes": [
         {
-          "id": "hlppqc",
+          "id": "tkoivx",
           "note": 55,
           "velocity": 100,
           "beat": 0.0,
@@ -75,7 +79,7 @@
           "channel": 0
         },
         {
-          "id": "hlpoef",
+          "id": "tkohiw",
           "note": 55,
           "velocity": 100,
           "beat": 1.0,
@@ -83,7 +87,7 @@
           "channel": 0
         },
         {
-          "id": "hlqevs",
+          "id": "tkofxb",
           "note": 55,
           "velocity": 100,
           "beat": 2.0,
@@ -91,7 +95,7 @@
           "channel": 0
         },
         {
-          "id": "hlqezb",
+          "id": "tkofxc",
           "note": 55,
           "velocity": 100,
           "beat": 3.0,
@@ -106,7 +110,11 @@
     "fadeInBeats": 0.0,
     "fadeOutBeats": 0.0,
     "fadeCurve": 1.0,
-    "loopEnabled": false,
+    "loopEnabled": true,
+    "loopRegion": {
+      "startBeats": 0.0,
+      "endBeats": 4.0
+    },
     "reversed": false,
     "swing": {
       "amount": 0.0,
@@ -115,7 +123,7 @@
   },
   "zaac": {
     "id": "zaac",
-    "trackId": "noz",
+    "trackId": "taa",
     "name": "1-Am - Tisnat_Moonrock [2023-04-26 195658] - clip",
     "startBeat": 128.0,
     "lengthBeats": 64.0,
@@ -124,7 +132,7 @@
       "type": "Midi",
       "notes": [
         {
-          "id": "hlqgja",
+          "id": "tkobbh",
           "note": 55,
           "velocity": 100,
           "beat": 0.0,
@@ -132,7 +140,7 @@
           "channel": 0
         },
         {
-          "id": "hlpytt",
+          "id": "tknzpm",
           "note": 55,
           "velocity": 100,
           "beat": 1.0,
@@ -140,7 +148,7 @@
           "channel": 0
         },
         {
-          "id": "hlpxoq",
+          "id": "tknycl",
           "note": 55,
           "velocity": 100,
           "beat": 2.0,
@@ -148,7 +156,7 @@
           "channel": 0
         },
         {
-          "id": "hlpxox",
+          "id": "tknycm",
           "note": 55,
           "velocity": 100,
           "beat": 3.0,
@@ -163,7 +171,11 @@
     "fadeInBeats": 0.0,
     "fadeOutBeats": 0.0,
     "fadeCurve": 1.0,
-    "loopEnabled": false,
+    "loopEnabled": true,
+    "loopRegion": {
+      "startBeats": 0.0,
+      "endBeats": 4.0
+    },
     "reversed": false,
     "swing": {
       "amount": 0.0,
@@ -172,7 +184,7 @@
   },
   "zaad": {
     "id": "zaad",
-    "trackId": "noz",
+    "trackId": "taa",
     "name": "1-Am - Tisnat_Moonrock [2023-04-26 195658] - clip",
     "startBeat": 256.0,
     "lengthBeats": 62.0,
@@ -181,7 +193,7 @@
       "type": "Midi",
       "notes": [
         {
-          "id": "hlousk",
+          "id": "tknuaz",
           "note": 55,
           "velocity": 100,
           "beat": 0.0,
@@ -189,7 +201,7 @@
           "channel": 0
         },
         {
-          "id": "hlotdl",
+          "id": "tknsoo",
           "note": 55,
           "velocity": 100,
           "beat": 1.0,
@@ -197,7 +209,7 @@
           "channel": 0
         },
         {
-          "id": "hloybc",
+          "id": "tknrcd",
           "note": 55,
           "velocity": 100,
           "beat": 2.0,
@@ -205,7 +217,7 @@
           "channel": 0
         },
         {
-          "id": "hloyat",
+          "id": "tknrce",
           "note": 55,
           "velocity": 100,
           "beat": 3.0,
@@ -220,7 +232,11 @@
     "fadeInBeats": 0.0,
     "fadeOutBeats": 0.0,
     "fadeCurve": 1.0,
-    "loopEnabled": false,
+    "loopEnabled": true,
+    "loopRegion": {
+      "startBeats": 0.0,
+      "endBeats": 4.0
+    },
     "reversed": false,
     "swing": {
       "amount": 0.0,
@@ -229,7 +245,7 @@
   },
   "zaae": {
     "id": "zaae",
-    "trackId": "noz",
+    "trackId": "taa",
     "name": "1-Am - Tisnat_Moonrock [2023-04-26 195658] - clip",
     "startBeat": 320.0,
     "lengthBeats": 60.0,
@@ -238,7 +254,7 @@
       "type": "Midi",
       "notes": [
         {
-          "id": "hlonig",
+          "id": "tknmgz",
           "note": 55,
           "velocity": 100,
           "beat": 0.0,
@@ -246,7 +262,7 @@
           "channel": 0
         },
         {
-          "id": "hlorvl",
+          "id": "tkrdte",
           "note": 55,
           "velocity": 100,
           "beat": 1.0,
@@ -254,7 +270,7 @@
           "channel": 0
         },
         {
-          "id": "hloqqy",
+          "id": "tkrdtf",
           "note": 55,
           "velocity": 100,
           "beat": 2.0,
@@ -262,7 +278,7 @@
           "channel": 0
         },
         {
-          "id": "hloqrf",
+          "id": "tkrcei",
           "note": 55,
           "velocity": 100,
           "beat": 3.0,
@@ -277,7 +293,11 @@
     "fadeInBeats": 0.0,
     "fadeOutBeats": 0.0,
     "fadeCurve": 1.0,
-    "loopEnabled": false,
+    "loopEnabled": true,
+    "loopRegion": {
+      "startBeats": 0.0,
+      "endBeats": 4.0
+    },
     "reversed": false,
     "swing": {
       "amount": 0.0,
@@ -286,7 +306,7 @@
   },
   "zaaf": {
     "id": "zaaf",
-    "trackId": "noz",
+    "trackId": "taa",
     "name": "1-Am - Tisnat_Moonrock [2023-04-26 195658] - clip",
     "startBeat": 384.0,
     "lengthBeats": 320.0,
@@ -295,7 +315,7 @@
       "type": "Midi",
       "notes": [
         {
-          "id": "hlpkgk",
+          "id": "tkqzun",
           "note": 55,
           "velocity": 100,
           "beat": 0.0,
@@ -303,7 +323,7 @@
           "channel": 0
         },
         {
-          "id": "hlpisb",
+          "id": "tkqygg",
           "note": 55,
           "velocity": 100,
           "beat": 1.0,
@@ -311,7 +331,7 @@
           "channel": 0
         },
         {
-          "id": "hlpisa",
+          "id": "tkqygh",
           "note": 55,
           "velocity": 100,
           "beat": 2.0,
@@ -319,7 +339,7 @@
           "channel": 0
         },
         {
-          "id": "hlpbdb",
+          "id": "tkqwsa",
           "note": 55,
           "velocity": 100,
           "beat": 3.0,
@@ -334,7 +354,11 @@
     "fadeInBeats": 0.0,
     "fadeOutBeats": 0.0,
     "fadeCurve": 1.0,
-    "loopEnabled": false,
+    "loopEnabled": true,
+    "loopRegion": {
+      "startBeats": 0.0,
+      "endBeats": 4.0
+    },
     "reversed": false,
     "swing": {
       "amount": 0.0,
@@ -343,7 +367,7 @@
   },
   "zaag": {
     "id": "zaag",
-    "trackId": "jpc",
+    "trackId": "tab",
     "name": "3-OB-Xd 2-Group - clip",
     "startBeat": 0.0,
     "lengthBeats": 188.0,
@@ -352,315 +376,11 @@
       "type": "Midi",
       "notes": [
         {
-          "id": "hlnbcs",
+          "id": "tkqtpl",
           "note": 48,
           "velocity": 100,
           "beat": 0.5,
           "durationBeats": 0.18852449633699633,
-          "channel": 0
-        },
-        {
-          "id": "hlmzqf",
-          "note": 60,
-          "velocity": 100,
-          "beat": 1.25,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlmzqe",
-          "note": 48,
-          "velocity": 100,
-          "beat": 2.0,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlmrzz",
-          "note": 48,
-          "velocity": 100,
-          "beat": 3.5,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlmqla",
-          "note": 60,
-          "velocity": 100,
-          "beat": 4.25,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlmqkz",
-          "note": 65,
-          "velocity": 100,
-          "beat": 7.5,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlmvhk",
-          "note": 48,
-          "velocity": 100,
-          "beat": 7.75,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlmtup",
-          "note": 60,
-          "velocity": 100,
-          "beat": 8.5,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlmtuo",
-          "note": 65,
-          "velocity": 100,
-          "beat": 9.25,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlnkkv",
-          "note": 48,
-          "velocity": 100,
-          "beat": 9.5,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlnivg",
-          "note": 60,
-          "velocity": 100,
-          "beat": 10.25,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlnnit",
-          "note": 65,
-          "velocity": 100,
-          "beat": 11.0,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlnnis",
-          "note": 48,
-          "velocity": 100,
-          "beat": 11.25,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlnlvp",
-          "note": 60,
-          "velocity": 100,
-          "beat": 12.0,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlnepo",
-          "note": 65,
-          "velocity": 100,
-          "beat": 12.75,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlnenj",
-          "note": 48,
-          "velocity": 100,
-          "beat": 13.0,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlndcc",
-          "note": 60,
-          "velocity": 100,
-          "beat": 13.75,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlnhmf",
-          "note": 65,
-          "velocity": 100,
-          "beat": 14.5,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlnhme",
-          "note": 48,
-          "velocity": 100,
-          "beat": 14.75,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlnfyt",
-          "note": 60,
-          "velocity": 100,
-          "beat": 15.5,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlmaeo",
-          "note": 65,
-          "velocity": 100,
-          "beat": 16.25,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hllyyf",
-          "note": 48,
-          "velocity": 100,
-          "beat": 16.5,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hllyye",
-          "note": 60,
-          "velocity": 100,
-          "beat": 17.25,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlmdnn",
-          "note": 65,
-          "velocity": 100,
-          "beat": 18.0,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlmbze",
-          "note": 48,
-          "velocity": 100,
-          "beat": 18.25,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlmbzd",
-          "note": 60,
-          "velocity": 100,
-          "beat": 19.0,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hllugu",
-          "note": 65,
-          "velocity": 100,
-          "beat": 19.75,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hllsvf",
-          "note": 48,
-          "velocity": 100,
-          "beat": 20.0,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hllxpu",
-          "note": 60,
-          "velocity": 100,
-          "beat": 20.75,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hllxpt",
-          "note": 65,
-          "velocity": 100,
-          "beat": 21.5,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hllwbk",
-          "note": 48,
-          "velocity": 100,
-          "beat": 21.75,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlmmul",
-          "note": 60,
-          "velocity": 100,
-          "beat": 22.5,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlmlda",
-          "note": 65,
-          "velocity": 100,
-          "beat": 23.25,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlmlcz",
-          "note": 48,
-          "velocity": 100,
-          "beat": 23.5,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlmpsa",
-          "note": 60,
-          "velocity": 100,
-          "beat": 24.25,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlmofv",
-          "note": 65,
-          "velocity": 100,
-          "beat": 25.0,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlmofu",
-          "note": 48,
-          "velocity": 100,
-          "beat": 25.25,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlmgwr",
-          "note": 60,
-          "velocity": 100,
-          "beat": 26.0,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlmfke",
-          "note": 65,
-          "velocity": 100,
-          "beat": 26.75,
-          "durationBeats": 0.03567422161172161,
           "channel": 0
         }
       ]
@@ -671,7 +391,11 @@
     "fadeInBeats": 0.0,
     "fadeOutBeats": 0.0,
     "fadeCurve": 1.0,
-    "loopEnabled": false,
+    "loopEnabled": true,
+    "loopRegion": {
+      "startBeats": 0.0,
+      "endBeats": 1.0
+    },
     "reversed": false,
     "swing": {
       "amount": 0.0,
@@ -680,7 +404,7 @@
   },
   "zaah": {
     "id": "zaah",
-    "trackId": "jpc",
+    "trackId": "tab",
     "name": "3-OB-Xd 2-Group - clip",
     "startBeat": 224.0,
     "lengthBeats": 156.0,
@@ -689,7 +413,7 @@
       "type": "Midi",
       "notes": [
         {
-          "id": "hlkwyt",
+          "id": "tkqlbi",
           "note": 48,
           "velocity": 100,
           "beat": 0.0,
@@ -697,7 +421,7 @@
           "channel": 0
         },
         {
-          "id": "hllnli",
+          "id": "tkqjnb",
           "note": 60,
           "velocity": 100,
           "beat": 0.75,
@@ -705,7 +429,7 @@
           "channel": 0
         },
         {
-          "id": "hllnlh",
+          "id": "tkqjnc",
           "note": 49,
           "velocity": 100,
           "beat": 1.75,
@@ -713,7 +437,7 @@
           "channel": 0
         },
         {
-          "id": "hlllzk",
+          "id": "tkqhyf",
           "note": 60,
           "velocity": 100,
           "beat": 2.5,
@@ -721,7 +445,7 @@
           "channel": 0
         },
         {
-          "id": "hllqod",
+          "id": "tkqgko",
           "note": 65,
           "velocity": 100,
           "beat": 3.0,
@@ -729,7 +453,7 @@
           "channel": 0
         },
         {
-          "id": "hllqoc",
+          "id": "tkqgkp",
           "note": 48,
           "velocity": 100,
           "beat": 4.0,
@@ -737,7 +461,7 @@
           "channel": 0
         },
         {
-          "id": "hllphd",
+          "id": "tkqevs",
           "note": 60,
           "velocity": 100,
           "beat": 4.75,
@@ -745,7 +469,7 @@
           "channel": 0
         },
         {
-          "id": "hllhsm",
+          "id": "tkqevt",
           "note": 65,
           "velocity": 100,
           "beat": 5.5,
@@ -753,7 +477,7 @@
           "channel": 0
         },
         {
-          "id": "hllhkt",
+          "id": "tkqdic",
           "note": 49,
           "velocity": 100,
           "beat": 5.75,
@@ -761,7 +485,7 @@
           "channel": 0
         },
         {
-          "id": "hllgas",
+          "id": "tkqdid",
           "note": 60,
           "velocity": 100,
           "beat": 6.5,
@@ -769,98 +493,10 @@
           "channel": 0
         },
         {
-          "id": "hllkon",
+          "id": "tkqbsq",
           "note": 65,
           "velocity": 100,
           "beat": 7.0,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hllkom",
-          "note": 60,
-          "velocity": 100,
-          "beat": 21.75,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hllizv",
-          "note": 65,
-          "velocity": 100,
-          "beat": 22.5,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hllizu",
-          "note": 48,
-          "velocity": 100,
-          "beat": 22.75,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlkdtd",
-          "note": 60,
-          "velocity": 100,
-          "beat": 23.5,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlkcee",
-          "note": 65,
-          "velocity": 100,
-          "beat": 24.25,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlkcel",
-          "note": 48,
-          "velocity": 100,
-          "beat": 24.5,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlkgrq",
-          "note": 60,
-          "velocity": 100,
-          "beat": 25.25,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlkgrp",
-          "note": 65,
-          "velocity": 100,
-          "beat": 26.0,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlkfie",
-          "note": 48,
-          "velocity": 100,
-          "beat": 26.25,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hljxsp",
-          "note": 60,
-          "velocity": 100,
-          "beat": 27.0,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hljxso",
-          "note": 65,
-          "velocity": 100,
-          "beat": 27.75,
           "durationBeats": 0.03567422161172161,
           "channel": 0
         }
@@ -872,7 +508,11 @@
     "fadeInBeats": 0.0,
     "fadeOutBeats": 0.0,
     "fadeCurve": 1.0,
-    "loopEnabled": false,
+    "loopEnabled": true,
+    "loopRegion": {
+      "startBeats": 0.0,
+      "endBeats": 8.0
+    },
     "reversed": false,
     "swing": {
       "amount": 0.0,
@@ -881,7 +521,7 @@
   },
   "zaai": {
     "id": "zaai",
-    "trackId": "jpc",
+    "trackId": "tab",
     "name": "3-OB-Xd 2-Group - clip",
     "startBeat": 384.0,
     "lengthBeats": 224.0,
@@ -890,7 +530,7 @@
       "type": "Midi",
       "notes": [
         {
-          "id": "hljnrh",
+          "id": "tkpoon",
           "note": 48,
           "velocity": 100,
           "beat": 0.0,
@@ -898,7 +538,7 @@
           "channel": 0
         },
         {
-          "id": "hljmrs",
+          "id": "tkpnbm",
           "note": 60,
           "velocity": 100,
           "beat": 0.75,
@@ -906,7 +546,7 @@
           "channel": 0
         },
         {
-          "id": "hljmrj",
+          "id": "tkpnbn",
           "note": 53,
           "velocity": 100,
           "beat": 1.25,
@@ -914,7 +554,7 @@
           "channel": 0
         },
         {
-          "id": "hligus",
+          "id": "tkplng",
           "note": 65,
           "velocity": 100,
           "beat": 1.5,
@@ -922,7 +562,7 @@
           "channel": 0
         },
         {
-          "id": "hlifif",
+          "id": "tkplnh",
           "note": 49,
           "velocity": 100,
           "beat": 1.75,
@@ -930,7 +570,7 @@
           "channel": 0
         },
         {
-          "id": "hlifie",
+          "id": "tkpjxu",
           "note": 60,
           "velocity": 100,
           "beat": 2.5,
@@ -938,7 +578,7 @@
           "channel": 0
         },
         {
-          "id": "hlijzz",
+          "id": "tkpijn",
           "note": 65,
           "velocity": 100,
           "beat": 3.0,
@@ -946,7 +586,7 @@
           "channel": 0
         },
         {
-          "id": "hlijzy",
+          "id": "tkpiiy",
           "note": 53,
           "velocity": 100,
           "beat": 3.5,
@@ -954,7 +594,7 @@
           "channel": 0
         },
         {
-          "id": "hliikz",
+          "id": "szgsbx",
           "note": 55,
           "velocity": 100,
           "beat": 4.0,
@@ -962,7 +602,7 @@
           "channel": 0
         },
         {
-          "id": "hliapo",
+          "id": "szgsby",
           "note": 60,
           "velocity": 100,
           "beat": 4.25,
@@ -970,7 +610,7 @@
           "channel": 0
         },
         {
-          "id": "hliapv",
+          "id": "szgqnb",
           "note": 48,
           "velocity": 100,
           "beat": 4.75,
@@ -978,314 +618,10 @@
           "channel": 0
         },
         {
-          "id": "hlhzcs",
+          "id": "szgqnc",
           "note": 58,
           "velocity": 100,
           "beat": 5.5,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlidpx",
-          "note": 60,
-          "velocity": 100,
-          "beat": 6.0,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlidpw",
-          "note": 65,
-          "velocity": 100,
-          "beat": 6.75,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlicfn",
-          "note": 48,
-          "velocity": 100,
-          "beat": 7.0,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlicfm",
-          "note": 60,
-          "velocity": 100,
-          "beat": 7.75,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlisvt",
-          "note": 65,
-          "velocity": 100,
-          "beat": 8.5,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hliriq",
-          "note": 48,
-          "velocity": 100,
-          "beat": 8.75,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlirjn",
-          "note": 60,
-          "velocity": 100,
-          "beat": 9.5,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hliwik",
-          "note": 65,
-          "velocity": 100,
-          "beat": 10.25,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hliwij",
-          "note": 48,
-          "velocity": 100,
-          "beat": 10.5,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hliuxc",
-          "note": 60,
-          "velocity": 100,
-          "beat": 11.25,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlinjj",
-          "note": 65,
-          "velocity": 100,
-          "beat": 12.0,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlinji",
-          "note": 48,
-          "velocity": 100,
-          "beat": 12.25,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlilvp",
-          "note": 60,
-          "velocity": 100,
-          "beat": 13.0,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hliqkq",
-          "note": 65,
-          "velocity": 100,
-          "beat": 13.75,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hliqkx",
-          "note": 48,
-          "velocity": 100,
-          "beat": 14.0,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hliope",
-          "note": 60,
-          "velocity": 100,
-          "beat": 14.75,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlhivp",
-          "note": 65,
-          "velocity": 100,
-          "beat": 15.5,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlhivo",
-          "note": 48,
-          "velocity": 100,
-          "beat": 15.75,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlhhhn",
-          "note": 60,
-          "velocity": 100,
-          "beat": 16.5,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlhhhm",
-          "note": 65,
-          "velocity": 100,
-          "beat": 17.25,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlhlxd",
-          "note": 48,
-          "velocity": 100,
-          "beat": 17.5,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlhklg",
-          "note": 60,
-          "velocity": 100,
-          "beat": 18.25,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlhkkx",
-          "note": 65,
-          "velocity": 100,
-          "beat": 19.0,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlhdgs",
-          "note": 48,
-          "velocity": 100,
-          "beat": 19.25,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlhbuf",
-          "note": 60,
-          "velocity": 100,
-          "beat": 20.0,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlhbue",
-          "note": 65,
-          "velocity": 100,
-          "beat": 20.75,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlhgjn",
-          "note": 48,
-          "velocity": 100,
-          "beat": 21.0,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlhexa",
-          "note": 60,
-          "velocity": 100,
-          "beat": 21.75,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlhewz",
-          "note": 65,
-          "velocity": 100,
-          "beat": 22.5,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlhvpc",
-          "note": 48,
-          "velocity": 100,
-          "beat": 22.75,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlhuch",
-          "note": 60,
-          "velocity": 100,
-          "beat": 23.5,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlhucg",
-          "note": 65,
-          "velocity": 100,
-          "beat": 24.25,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlhyib",
-          "note": 48,
-          "velocity": 100,
-          "beat": 24.5,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlhyia",
-          "note": 60,
-          "velocity": 100,
-          "beat": 25.25,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlhwvf",
-          "note": 65,
-          "velocity": 100,
-          "beat": 26.0,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlhphu",
-          "note": 48,
-          "velocity": 100,
-          "beat": 26.25,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlhpht",
-          "note": 60,
-          "velocity": 100,
-          "beat": 27.0,
-          "durationBeats": 0.03567422161172161,
-          "channel": 0
-        },
-        {
-          "id": "hlhnuq",
-          "note": 65,
-          "velocity": 100,
-          "beat": 27.75,
           "durationBeats": 0.03567422161172161,
           "channel": 0
         }
@@ -1297,7 +633,11 @@
     "fadeInBeats": 0.0,
     "fadeOutBeats": 0.0,
     "fadeCurve": 1.0,
-    "loopEnabled": false,
+    "loopEnabled": true,
+    "loopRegion": {
+      "startBeats": 0.0,
+      "endBeats": 6.0
+    },
     "reversed": false,
     "swing": {
       "amount": 0.0,
@@ -1306,7 +646,7 @@
   },
   "zaaj": {
     "id": "zaaj",
-    "trackId": "gum",
+    "trackId": "tac",
     "name": "Audio 0001 [2025-08-13 234149].aif",
     "startBeat": 8.0,
     "lengthBeats": 1.5,
@@ -1335,7 +675,7 @@
   },
   "zaak": {
     "id": "zaak",
-    "trackId": "gum",
+    "trackId": "tac",
     "name": "Audio 0001 [2025-08-13 234149].aif",
     "startBeat": 16.0,
     "lengthBeats": 2.0,
@@ -1364,7 +704,7 @@
   },
   "zaal": {
     "id": "zaal",
-    "trackId": "gum",
+    "trackId": "tac",
     "name": "Audio 0001 [2025-08-13 234149].aif",
     "startBeat": 20.0,
     "lengthBeats": 2.5,
@@ -1393,7 +733,7 @@
   },
   "zaam": {
     "id": "zaam",
-    "trackId": "gum",
+    "trackId": "tac",
     "name": "Audio 0001 [2025-08-13 234149].aif",
     "startBeat": 32.0,
     "lengthBeats": 2.25,
@@ -1422,7 +762,7 @@
   },
   "zaan": {
     "id": "zaan",
-    "trackId": "gum",
+    "trackId": "tac",
     "name": "Audio 0001 [2025-08-13 234149].aif",
     "startBeat": 36.0,
     "lengthBeats": 2.0,
@@ -1451,7 +791,7 @@
   },
   "zaao": {
     "id": "zaao",
-    "trackId": "gum",
+    "trackId": "tac",
     "name": "Audio 0001 [2025-08-13 234149].aif",
     "startBeat": 40.0,
     "lengthBeats": 2.5,
@@ -1480,7 +820,7 @@
   },
   "zaap": {
     "id": "zaap",
-    "trackId": "gum",
+    "trackId": "tac",
     "name": "Audio 0001 [2025-08-13 234149].aif",
     "startBeat": 44.0,
     "lengthBeats": 2.0,
@@ -1509,7 +849,7 @@
   },
   "zaaq": {
     "id": "zaaq",
-    "trackId": "gum",
+    "trackId": "tac",
     "name": "Audio 0001 [2025-08-13 234149].aif",
     "startBeat": 48.0,
     "lengthBeats": 2.5,
@@ -1538,7 +878,7 @@
   },
   "zaar": {
     "id": "zaar",
-    "trackId": "gum",
+    "trackId": "tac",
     "name": "Audio 0001 [2025-08-13 234149].aif",
     "startBeat": 52.0,
     "lengthBeats": 2.5,
@@ -1567,7 +907,7 @@
   },
   "zaas": {
     "id": "zaas",
-    "trackId": "gum",
+    "trackId": "tac",
     "name": "Audio 0001 [2025-08-13 234149].aif",
     "startBeat": 56.0,
     "lengthBeats": 3.5,
@@ -1596,7 +936,7 @@
   },
   "zaat": {
     "id": "zaat",
-    "trackId": "gum",
+    "trackId": "tac",
     "name": "Audio 0001 [2025-08-13 234149].aif",
     "startBeat": 60.0,
     "lengthBeats": 3.0,
@@ -1625,7 +965,7 @@
   },
   "zaau": {
     "id": "zaau",
-    "trackId": "gum",
+    "trackId": "tac",
     "name": "Audio 0001 [2025-08-13 234149].aif",
     "startBeat": 64.0,
     "lengthBeats": 128.0,
@@ -1654,7 +994,7 @@
   },
   "zaav": {
     "id": "zaav",
-    "trackId": "gum",
+    "trackId": "tac",
     "name": "Audio 0001 [2025-08-13 234149].aif",
     "startBeat": 224.0,
     "lengthBeats": 32.0,
@@ -1683,7 +1023,7 @@
   },
   "zaaw": {
     "id": "zaaw",
-    "trackId": "gum",
+    "trackId": "tac",
     "name": "Audio 0001 [2025-08-13 234149].aif",
     "startBeat": 256.0,
     "lengthBeats": 64.0,
@@ -1712,7 +1052,7 @@
   },
   "zaax": {
     "id": "zaax",
-    "trackId": "gum",
+    "trackId": "tac",
     "name": "Audio 0001 [2025-08-13 234149].aif",
     "startBeat": 320.0,
     "lengthBeats": 60.0,
@@ -1741,7 +1081,7 @@
   },
   "zaay": {
     "id": "zaay",
-    "trackId": "gum",
+    "trackId": "tac",
     "name": "Audio 0001 [2025-08-13 234149].aif",
     "startBeat": 380.0,
     "lengthBeats": 228.0,
@@ -1770,7 +1110,7 @@
   },
   "zaaz": {
     "id": "zaaz",
-    "trackId": "ddx",
+    "trackId": "tad",
     "name": "5-Heartbeat - clip",
     "startBeat": 0.0,
     "lengthBeats": 62.0,
@@ -1779,7 +1119,7 @@
       "type": "Midi",
       "notes": [
         {
-          "id": "hlglpb",
+          "id": "szgmqn",
           "note": 48,
           "velocity": 100,
           "beat": 0.5,
@@ -1787,7 +1127,7 @@
           "channel": 0
         },
         {
-          "id": "hlgkbi",
+          "id": "szglbq",
           "note": 48,
           "velocity": 100,
           "beat": 1.5,
@@ -1795,7 +1135,7 @@
           "channel": 0
         },
         {
-          "id": "hlgkbh",
+          "id": "szgjmt",
           "note": 48,
           "velocity": 100,
           "beat": 2.5,
@@ -1803,7 +1143,7 @@
           "channel": 0
         },
         {
-          "id": "hlgonw",
+          "id": "szgjoa",
           "note": 48,
           "velocity": 100,
           "beat": 3.5,
@@ -1818,7 +1158,11 @@
     "fadeInBeats": 0.0,
     "fadeOutBeats": 0.0,
     "fadeCurve": 1.0,
-    "loopEnabled": false,
+    "loopEnabled": true,
+    "loopRegion": {
+      "startBeats": 0.0,
+      "endBeats": 4.0
+    },
     "reversed": false,
     "swing": {
       "amount": 0.0,
@@ -1827,7 +1171,7 @@
   },
   "zaba": {
     "id": "zaba",
-    "trackId": "ddx",
+    "trackId": "tad",
     "name": "5-Heartbeat - clip",
     "startBeat": 64.0,
     "lengthBeats": 160.0,
@@ -1836,7 +1180,7 @@
       "type": "Midi",
       "notes": [
         {
-          "id": "hlgdwh",
+          "id": "szgexd",
           "note": 48,
           "velocity": 100,
           "beat": 0.5,
@@ -1844,7 +1188,7 @@
           "channel": 0
         },
         {
-          "id": "hlgdwg",
+          "id": "szgdgk",
           "note": 48,
           "velocity": 100,
           "beat": 1.5,
@@ -1852,7 +1196,7 @@
           "channel": 0
         },
         {
-          "id": "hlgiiv",
+          "id": "szgbup",
           "note": 48,
           "velocity": 100,
           "beat": 2.5,
@@ -1860,7 +1204,7 @@
           "channel": 0
         },
         {
-          "id": "hlggvc",
+          "id": "szgbuq",
           "note": 48,
           "velocity": 100,
           "beat": 3.5,
@@ -1875,7 +1219,11 @@
     "fadeInBeats": 0.0,
     "fadeOutBeats": 0.0,
     "fadeCurve": 1.0,
-    "loopEnabled": false,
+    "loopEnabled": true,
+    "loopRegion": {
+      "startBeats": 0.0,
+      "endBeats": 4.0
+    },
     "reversed": false,
     "swing": {
       "amount": 0.0,
@@ -1884,7 +1232,7 @@
   },
   "zabb": {
     "id": "zabb",
-    "trackId": "ddx",
+    "trackId": "tad",
     "name": "5-Heartbeat - clip",
     "startBeat": 224.0,
     "lengthBeats": 32.0,
@@ -1893,7 +1241,7 @@
       "type": "Midi",
       "notes": [
         {
-          "id": "hlgvcd",
+          "id": "szfzkv",
           "note": 48,
           "velocity": 100,
           "beat": 0.5,
@@ -1901,7 +1249,7 @@
           "channel": 0
         },
         {
-          "id": "hlgvcc",
+          "id": "szfxuc",
           "note": 48,
           "velocity": 100,
           "beat": 1.5,
@@ -1909,7 +1257,7 @@
           "channel": 0
         },
         {
-          "id": "hlgzph",
+          "id": "szfxud",
           "note": 48,
           "velocity": 100,
           "beat": 2.5,
@@ -1917,7 +1265,7 @@
           "channel": 0
         },
         {
-          "id": "hlgzpg",
+          "id": "szfwfw",
           "note": 48,
           "velocity": 100,
           "beat": 3.5,
@@ -1932,7 +1280,11 @@
     "fadeInBeats": 0.0,
     "fadeOutBeats": 0.0,
     "fadeCurve": 1.0,
-    "loopEnabled": false,
+    "loopEnabled": true,
+    "loopRegion": {
+      "startBeats": 0.0,
+      "endBeats": 4.0
+    },
     "reversed": false,
     "swing": {
       "amount": 0.0,
@@ -1941,7 +1293,7 @@
   },
   "zabc": {
     "id": "zabc",
-    "trackId": "ddx",
+    "trackId": "tad",
     "name": "5-Heartbeat - clip",
     "startBeat": 256.0,
     "lengthBeats": 123.0,
@@ -1950,7 +1302,7 @@
       "type": "Midi",
       "notes": [
         {
-          "id": "hlgrvz",
+          "id": "szfolt",
           "note": 48,
           "velocity": 100,
           "beat": 0.5,
@@ -1958,7 +1310,7 @@
           "channel": 0
         },
         {
-          "id": "hlflzy",
+          "id": "szfolu",
           "note": 36,
           "velocity": 100,
           "beat": 0.75,
@@ -1966,7 +1318,7 @@
           "channel": 0
         },
         {
-          "id": "hlfklp",
+          "id": "szfnap",
           "note": 51,
           "velocity": 100,
           "beat": 1.25,
@@ -1974,7 +1326,7 @@
           "channel": 0
         },
         {
-          "id": "hlfklo",
+          "id": "szfnaq",
           "note": 48,
           "velocity": 100,
           "beat": 1.5,
@@ -1982,7 +1334,7 @@
           "channel": 0
         },
         {
-          "id": "hlfoyl",
+          "id": "szfmcz",
           "note": 36,
           "velocity": 100,
           "beat": 1.75,
@@ -1990,7 +1342,7 @@
           "channel": 0
         },
         {
-          "id": "hlfoyk",
+          "id": "szfkpi",
           "note": 48,
           "velocity": 100,
           "beat": 2.5,
@@ -1998,7 +1350,7 @@
           "channel": 0
         },
         {
-          "id": "hlfodd",
+          "id": "szfkpj",
           "note": 36,
           "velocity": 100,
           "beat": 2.75,
@@ -2006,7 +1358,7 @@
           "channel": 0
         },
         {
-          "id": "hlfgpc",
+          "id": "szfjdo",
           "note": 36,
           "velocity": 100,
           "beat": 3.25,
@@ -2014,7 +1366,7 @@
           "channel": 0
         },
         {
-          "id": "hlfgpj",
+          "id": "szfjdp",
           "note": 48,
           "velocity": 100,
           "beat": 3.5,
@@ -2029,7 +1381,11 @@
     "fadeInBeats": 0.0,
     "fadeOutBeats": 0.0,
     "fadeCurve": 1.0,
-    "loopEnabled": false,
+    "loopEnabled": true,
+    "loopRegion": {
+      "startBeats": 0.0,
+      "endBeats": 4.0
+    },
     "reversed": false,
     "swing": {
       "amount": 0.0,
@@ -2038,7 +1394,7 @@
   },
   "zabd": {
     "id": "zabd",
-    "trackId": "ddx",
+    "trackId": "tad",
     "name": "5-Heartbeat - clip",
     "startBeat": 384.0,
     "lengthBeats": 320.0,
@@ -2047,7 +1403,7 @@
       "type": "Midi",
       "notes": [
         {
-          "id": "hlfxbi",
+          "id": "szidzm",
           "note": 48,
           "velocity": 100,
           "beat": 0.5,
@@ -2055,7 +1411,7 @@
           "channel": 0
         },
         {
-          "id": "hlgbnx",
+          "id": "szidzn",
           "note": 36,
           "velocity": 100,
           "beat": 0.75,
@@ -2063,7 +1419,7 @@
           "channel": 0
         },
         {
-          "id": "hlfzyy",
+          "id": "szicns",
           "note": 51,
           "velocity": 100,
           "beat": 1.25,
@@ -2071,7 +1427,7 @@
           "channel": 0
         },
         {
-          "id": "hlfzzf",
+          "id": "sziavt",
           "note": 48,
           "velocity": 100,
           "beat": 1.5,
@@ -2079,7 +1435,7 @@
           "channel": 0
         },
         {
-          "id": "hlfsko",
+          "id": "sziavu",
           "note": 36,
           "velocity": 100,
           "beat": 1.75,
@@ -2087,7 +1443,7 @@
           "channel": 0
         },
         {
-          "id": "hlfskn",
+          "id": "szhzjz",
           "note": 48,
           "velocity": 100,
           "beat": 2.5,
@@ -2095,7 +1451,7 @@
           "channel": 0
         },
         {
-          "id": "hlfqwe",
+          "id": "szhzjk",
           "note": 36,
           "velocity": 100,
           "beat": 2.75,
@@ -2103,7 +1459,7 @@
           "channel": 0
         },
         {
-          "id": "hlfwcd",
+          "id": "szhxwz",
           "note": 36,
           "velocity": 100,
           "beat": 3.25,
@@ -2111,7 +1467,7 @@
           "channel": 0
         },
         {
-          "id": "hlfwcc",
+          "id": "szhxxa",
           "note": 48,
           "velocity": 100,
           "beat": 3.5,
@@ -2126,7 +1482,11 @@
     "fadeInBeats": 0.0,
     "fadeOutBeats": 0.0,
     "fadeCurve": 1.0,
-    "loopEnabled": false,
+    "loopEnabled": true,
+    "loopRegion": {
+      "startBeats": 0.0,
+      "endBeats": 4.0
+    },
     "reversed": false,
     "swing": {
       "amount": 0.0,
@@ -2135,7 +1495,7 @@
   },
   "zabe": {
     "id": "zabe",
-    "trackId": "cvy",
+    "trackId": "tae",
     "name": "6-Farfisa V - clip",
     "startBeat": 128.0,
     "lengthBeats": 96.0,
@@ -2144,7 +1504,7 @@
       "type": "Midi",
       "notes": [
         {
-          "id": "hlener",
+          "id": "szhtvn",
           "note": 60,
           "velocity": 1,
           "beat": 0.0,
@@ -2152,7 +1512,7 @@
           "channel": 0
         },
         {
-          "id": "hlerqq",
+          "id": "szhsjc",
           "note": 65,
           "velocity": 127,
           "beat": 1.25,
@@ -2160,7 +1520,7 @@
           "channel": 0
         },
         {
-          "id": "hlerst",
+          "id": "szhqwr",
           "note": 61,
           "velocity": 127,
           "beat": 1.75,
@@ -2168,7 +1528,7 @@
           "channel": 0
         },
         {
-          "id": "hleqbi",
+          "id": "szhqws",
           "note": 63,
           "velocity": 127,
           "beat": 2.5,
@@ -2183,7 +1543,11 @@
     "fadeInBeats": 0.0,
     "fadeOutBeats": 0.0,
     "fadeCurve": 1.0,
-    "loopEnabled": false,
+    "loopEnabled": true,
+    "loopRegion": {
+      "startBeats": 0.0,
+      "endBeats": 4.0
+    },
     "reversed": false,
     "swing": {
       "amount": 0.0,
@@ -2192,7 +1556,7 @@
   },
   "zabf": {
     "id": "zabf",
-    "trackId": "cvy",
+    "trackId": "tae",
     "name": "6-Farfisa V - clip",
     "startBeat": 224.0,
     "lengthBeats": 32.0,
@@ -2201,7 +1565,7 @@
       "type": "Midi",
       "notes": [
         {
-          "id": "hlelkz",
+          "id": "szhmgl",
           "note": 60,
           "velocity": 1,
           "beat": 0.0,
@@ -2209,7 +1573,7 @@
           "channel": 0
         },
         {
-          "id": "hlelky",
+          "id": "szhkxc",
           "note": 65,
           "velocity": 127,
           "beat": 1.25,
@@ -2217,7 +1581,7 @@
           "channel": 0
         },
         {
-          "id": "hlejyt",
+          "id": "szhkxd",
           "note": 61,
           "velocity": 127,
           "beat": 1.75,
@@ -2225,7 +1589,7 @@
           "channel": 0
         },
         {
-          "id": "hlfapq",
+          "id": "szhjiw",
           "note": 63,
           "velocity": 127,
           "beat": 2.5,
@@ -2240,7 +1604,11 @@
     "fadeInBeats": 0.0,
     "fadeOutBeats": 0.0,
     "fadeCurve": 1.0,
-    "loopEnabled": false,
+    "loopEnabled": true,
+    "loopRegion": {
+      "startBeats": 0.0,
+      "endBeats": 4.0
+    },
     "reversed": false,
     "swing": {
       "amount": 0.0,
@@ -2249,7 +1617,7 @@
   },
   "zabg": {
     "id": "zabg",
-    "trackId": "cvy",
+    "trackId": "tae",
     "name": "6-Farfisa V - clip",
     "startBeat": 256.0,
     "lengthBeats": 320.0,
@@ -2258,7 +1626,7 @@
       "type": "Midi",
       "notes": [
         {
-          "id": "hlfcqv",
+          "id": "szhgkh",
           "note": 60,
           "velocity": 1,
           "beat": 0.0,
@@ -2266,7 +1634,7 @@
           "channel": 0
         },
         {
-          "id": "hlfcqu",
+          "id": "szhgki",
           "note": 65,
           "velocity": 127,
           "beat": 1.25,
@@ -2274,7 +1642,7 @@
           "channel": 0
         },
         {
-          "id": "hlevbf",
+          "id": "szhfaz",
           "note": 61,
           "velocity": 127,
           "beat": 1.75,
@@ -2282,7 +1650,7 @@
           "channel": 0
         },
         {
-          "id": "hlevbe",
+          "id": "szhdms",
           "note": 63,
           "velocity": 127,
           "beat": 2.5,
@@ -2297,7 +1665,11 @@
     "fadeInBeats": 0.0,
     "fadeOutBeats": 0.0,
     "fadeCurve": 1.0,
-    "loopEnabled": false,
+    "loopEnabled": true,
+    "loopRegion": {
+      "startBeats": 0.0,
+      "endBeats": 4.0
+    },
     "reversed": false,
     "swing": {
       "amount": 0.0,
@@ -2306,7 +1678,7 @@
   },
   "zabh": {
     "id": "zabh",
-    "trackId": "uqd",
+    "trackId": "taf",
     "name": "Audio 0001 [2025-08-13 231751].aif",
     "startBeat": 0.0,
     "lengthBeats": 64.0,
@@ -2335,7 +1707,7 @@
   },
   "zabi": {
     "id": "zabi",
-    "trackId": "uqd",
+    "trackId": "taf",
     "name": "Audio 0001 [2025-08-13 231751].aif",
     "startBeat": 128.0,
     "lengthBeats": 576.0,
@@ -2364,7 +1736,7 @@
   },
   "zabj": {
     "id": "zabj",
-    "trackId": "yom",
+    "trackId": "tag",
     "name": "Audio 0001 [2025-08-13 231750]-1.aif",
     "startBeat": 0.0,
     "lengthBeats": 12.0,
@@ -2393,7 +1765,7 @@
   },
   "zabk": {
     "id": "zabk",
-    "trackId": "yom",
+    "trackId": "tag",
     "name": "Audio 0001 [2025-08-13 231750]-1.aif",
     "startBeat": 12.0,
     "lengthBeats": 4.0,
@@ -2422,7 +1794,7 @@
   },
   "zabl": {
     "id": "zabl",
-    "trackId": "yom",
+    "trackId": "tag",
     "name": "Audio 0001 [2025-08-13 231750]-1.aif",
     "startBeat": 25.0,
     "lengthBeats": 7.0,
@@ -2451,7 +1823,7 @@
   },
   "zabm": {
     "id": "zabm",
-    "trackId": "yom",
+    "trackId": "tag",
     "name": "Audio 0001 [2025-08-13 231750]-1.aif",
     "startBeat": 36.0,
     "lengthBeats": 12.0,
@@ -2480,7 +1852,7 @@
   },
   "zabn": {
     "id": "zabn",
-    "trackId": "yom",
+    "trackId": "tag",
     "name": "Audio 0001 [2025-08-13 231750]-1.aif",
     "startBeat": 54.0,
     "lengthBeats": 8.0,
@@ -2509,7 +1881,7 @@
   },
   "zabo": {
     "id": "zabo",
-    "trackId": "yom",
+    "trackId": "tag",
     "name": "Audio 0001 [2025-08-13 231750]-1.aif",
     "startBeat": 128.0,
     "lengthBeats": 576.0,
@@ -2529,7 +1901,11 @@
     "fadeInBeats": 0.0,
     "fadeOutBeats": 0.0,
     "fadeCurve": 1.0,
-    "loopEnabled": false,
+    "loopEnabled": true,
+    "loopRegion": {
+      "startBeats": 384.0,
+      "endBeats": 448.0
+    },
     "reversed": false,
     "swing": {
       "amount": 0.0,
@@ -2538,7 +1914,7 @@
   },
   "zabp": {
     "id": "zabp",
-    "trackId": "vcv",
+    "trackId": "tah",
     "name": "Audio 0001 [2025-08-13 231750].aif",
     "startBeat": 0.0,
     "lengthBeats": 2.0,
@@ -2567,7 +1943,7 @@
   },
   "zabq": {
     "id": "zabq",
-    "trackId": "vcv",
+    "trackId": "tah",
     "name": "Audio 0001 [2025-08-13 231750].aif",
     "startBeat": 8.0,
     "lengthBeats": 2.0,
@@ -2596,7 +1972,7 @@
   },
   "zabr": {
     "id": "zabr",
-    "trackId": "vcv",
+    "trackId": "tah",
     "name": "Audio 0001 [2025-08-13 231750].aif",
     "startBeat": 16.0,
     "lengthBeats": 2.0,
@@ -2625,7 +2001,7 @@
   },
   "zabs": {
     "id": "zabs",
-    "trackId": "vcv",
+    "trackId": "tah",
     "name": "Audio 0001 [2025-08-13 231750].aif",
     "startBeat": 24.0,
     "lengthBeats": 2.0,
@@ -2654,7 +2030,7 @@
   },
   "zabt": {
     "id": "zabt",
-    "trackId": "vcv",
+    "trackId": "tah",
     "name": "Audio 0001 [2025-08-13 231750].aif",
     "startBeat": 92.0,
     "lengthBeats": 36.0,
@@ -2683,7 +2059,7 @@
   },
   "zabu": {
     "id": "zabu",
-    "trackId": "vcv",
+    "trackId": "tah",
     "name": "Audio 0001 [2025-08-13 231750].aif",
     "startBeat": 192.0,
     "lengthBeats": 64.0,
@@ -2712,7 +2088,7 @@
   },
   "zabv": {
     "id": "zabv",
-    "trackId": "vcv",
+    "trackId": "tah",
     "name": "Audio 0001 [2025-08-13 231750].aif",
     "startBeat": 264.0,
     "lengthBeats": 8.0,
@@ -2741,7 +2117,7 @@
   },
   "zabw": {
     "id": "zabw",
-    "trackId": "vcv",
+    "trackId": "tah",
     "name": "Audio 0001 [2025-08-13 231750].aif",
     "startBeat": 320.0,
     "lengthBeats": 32.0,
@@ -2761,7 +2137,11 @@
     "fadeInBeats": 0.0,
     "fadeOutBeats": 0.0,
     "fadeCurve": 1.0,
-    "loopEnabled": false,
+    "loopEnabled": true,
+    "loopRegion": {
+      "startBeats": 208.0,
+      "endBeats": 208.75
+    },
     "reversed": false,
     "swing": {
       "amount": 0.0,
@@ -2770,7 +2150,7 @@
   },
   "zabx": {
     "id": "zabx",
-    "trackId": "vcv",
+    "trackId": "tah",
     "name": "Audio 0001 [2025-08-13 231750].aif",
     "startBeat": 352.0,
     "lengthBeats": 28.0,
@@ -2790,7 +2170,11 @@
     "fadeInBeats": 0.0,
     "fadeOutBeats": 0.0,
     "fadeCurve": 1.0,
-    "loopEnabled": false,
+    "loopEnabled": true,
+    "loopRegion": {
+      "startBeats": 208.75,
+      "endBeats": 209.5
+    },
     "reversed": false,
     "swing": {
       "amount": 0.0,
@@ -2799,7 +2183,7 @@
   },
   "zaby": {
     "id": "zaby",
-    "trackId": "vcv",
+    "trackId": "tah",
     "name": "Audio 0001 [2025-08-13 231750].aif",
     "startBeat": 424.0,
     "lengthBeats": 56.0,
@@ -2828,7 +2212,7 @@
   },
   "zabz": {
     "id": "zabz",
-    "trackId": "acf",
+    "trackId": "tai",
     "name": "Dm - Crumble [2023-04-26 201908].aif",
     "startBeat": 288.0,
     "lengthBeats": 64.0,
@@ -2857,7 +2241,7 @@
   },
   "zaca": {
     "id": "zaca",
-    "trackId": "acf",
+    "trackId": "tai",
     "name": "Dm - Crumble [2023-04-26 201908].aif",
     "startBeat": 384.0,
     "lengthBeats": 64.0,

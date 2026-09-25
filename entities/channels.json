@@ -1,5 +1,5 @@
 {
-  "ddx": {
+  "taa": {
     "gain": 1.0,
     "pan": 0.0,
     "muted": false,
@@ -12,7 +12,7 @@
     "channelFormat": "stereo",
     "monoSource": "sum"
   },
-  "acf": {
+  "tab": {
     "gain": 1.0,
     "pan": 0.0,
     "muted": false,
@@ -25,7 +25,7 @@
     "channelFormat": "stereo",
     "monoSource": "sum"
   },
-  "jpc": {
+  "tac": {
     "gain": 1.0,
     "pan": 0.0,
     "muted": false,
@@ -51,7 +51,7 @@
     "channelFormat": "stereo",
     "monoSource": "sum"
   },
-  "vcv": {
+  "tae": {
     "gain": 1.0,
     "pan": 0.0,
     "muted": false,
@@ -64,7 +64,7 @@
     "channelFormat": "stereo",
     "monoSource": "sum"
   },
-  "cvy": {
+  "taf": {
     "gain": 1.0,
     "pan": 0.0,
     "muted": false,
@@ -77,7 +77,7 @@
     "channelFormat": "stereo",
     "monoSource": "sum"
   },
-  "gum": {
+  "tag": {
     "gain": 1.0,
     "pan": 0.0,
     "muted": false,
@@ -90,7 +90,7 @@
     "channelFormat": "stereo",
     "monoSource": "sum"
   },
-  "noz": {
+  "tah": {
     "gain": 1.0,
     "pan": 0.0,
     "muted": false,
@@ -103,20 +103,7 @@
     "channelFormat": "stereo",
     "monoSource": "sum"
   },
-  "yom": {
-    "gain": 1.0,
-    "pan": 0.0,
-    "muted": false,
-    "solo": false,
-    "spatial": {
-      "azimuth": 0.0,
-      "elevation": 0.0,
-      "distance": 1.0
-    },
-    "channelFormat": "stereo",
-    "monoSource": "sum"
-  },
-  "uqd": {
+  "tai": {
     "gain": 1.0,
     "pan": 0.0,
     "muted": false,

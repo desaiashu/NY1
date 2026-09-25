@@ -188,26 +188,26 @@
     }
   ],
   "returns": {
-    "rac": {
-      "id": "rac",
-      "name": "C-Delay - Console 1",
-      "busIndex": 2,
+    "raa": {
+      "id": "raa",
+      "name": "A-Long Reverb",
+      "busIndex": 0,
       "gain": 1.0,
       "pan": 0.0,
       "muted": false
     },
-    "rtm": {
-      "id": "rtm",
+    "rab": {
+      "id": "rab",
       "name": "B-Short Reverb",
       "busIndex": 1,
       "gain": 1.0,
       "pan": 0.0,
       "muted": false
     },
-    "rju": {
-      "id": "rju",
-      "name": "A-Long Reverb",
-      "busIndex": 0,
+    "rac": {
+      "id": "rac",
+      "name": "C-Delay - Console 1",
+      "busIndex": 2,
       "gain": 1.0,
       "pan": 0.0,
       "muted": false

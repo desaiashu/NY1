@@ -11,8 +11,8 @@
   "timeSigNumerator": 4,
   "timeSigDenominator": 4,
   "tracks": {
-    "noz": {
-      "id": "noz",
+    "taa": {
+      "id": "taa",
       "name": "1-Am - Tisnat_Moonrock [2023-04-26 195658]",
       "trackType": "midi",
       "auditionLane": null,
@@ -21,8 +21,8 @@
       "dubState": "empty",
       "audioTakeLaneCount": 0
     },
-    "jpc": {
-      "id": "jpc",
+    "tab": {
+      "id": "tab",
       "name": "3-OB-Xd 2-Group",
       "trackType": "midi",
       "auditionLane": null,
@@ -31,8 +31,8 @@
       "dubState": "empty",
       "audioTakeLaneCount": 0
     },
-    "gum": {
-      "id": "gum",
+    "tac": {
+      "id": "tac",
       "name": "Audio 2-Group",
       "trackType": "audio",
       "auditionLane": null,
@@ -41,8 +41,8 @@
       "dubState": "empty",
       "audioTakeLaneCount": 0
     },
-    "ddx": {
-      "id": "ddx",
+    "tad": {
+      "id": "tad",
       "name": "5-Heartbeat",
       "trackType": "midi",
       "auditionLane": null,
@@ -51,8 +51,8 @@
       "dubState": "empty",
       "audioTakeLaneCount": 0
     },
-    "cvy": {
-      "id": "cvy",
+    "tae": {
+      "id": "tae",
       "name": "6-Farfisa V",
       "trackType": "midi",
       "auditionLane": null,
@@ -61,8 +61,8 @@
       "dubState": "empty",
       "audioTakeLaneCount": 0
     },
-    "uqd": {
-      "id": "uqd",
+    "taf": {
+      "id": "taf",
       "name": "Audio",
       "trackType": "audio",
       "auditionLane": null,
@@ -71,8 +71,8 @@
       "dubState": "empty",
       "audioTakeLaneCount": 0
     },
-    "yom": {
-      "id": "yom",
+    "tag": {
+      "id": "tag",
       "name": "Audio",
       "trackType": "audio",
       "auditionLane": null,
@@ -81,8 +81,8 @@
       "dubState": "empty",
       "audioTakeLaneCount": 0
     },
-    "vcv": {
-      "id": "vcv",
+    "tah": {
+      "id": "tah",
       "name": "Audio",
       "trackType": "audio",
       "auditionLane": null,
@@ -91,8 +91,8 @@
       "dubState": "empty",
       "audioTakeLaneCount": 0
     },
-    "acf": {
-      "id": "acf",
+    "tai": {
+      "id": "tai",
       "name": "Audio",
       "trackType": "audio",
       "auditionLane": null,
@@ -101,8 +101,8 @@
       "dubState": "empty",
       "audioTakeLaneCount": 0
     },
-    "rju": {
-      "id": "rju",
+    "raa": {
+      "id": "raa",
       "name": "A-Long Reverb",
       "trackType": "return",
       "auditionLane": null,
@@ -111,8 +111,8 @@
       "dubState": "empty",
       "audioTakeLaneCount": 0
     },
-    "rtm": {
-      "id": "rtm",
+    "rab": {
+      "id": "rab",
       "name": "B-Short Reverb",
       "trackType": "return",
       "auditionLane": null,
@@ -133,23 +133,23 @@
     }
   },
   "trackOrder": [
-    "noz",
-    "jpc",
-    "gum",
-    "ddx",
-    "cvy",
-    "uqd",
-    "yom",
-    "vcv",
-    "acf",
-    "rju",
-    "rtm",
+    "taa",
+    "tab",
+    "tac",
+    "tad",
+    "tae",
+    "taf",
+    "tag",
+    "tah",
+    "tai",
+    "raa",
+    "rab",
     "rac"
   ],
   "groups": {},
   "sections": {
-    "szq": {
-      "id": "szq",
+    "juk": {
+      "id": "juk",
       "name": "song",
       "startBeat": 0.0,
       "lengthBeats": 704.0,
