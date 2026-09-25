@@ -1,7 +1,7 @@
 {
-  "tyls": {
-    "id": "tyls",
-    "trackId": "noz",
+  "ypqr": {
+    "id": "ypqr",
+    "trackId": "taa",
     "typeName": "tivraSampler",
     "slot": "instrument",
     "enabled": true,
@@ -12,27 +12,27 @@
     },
     "sidechainSensitivity": 0.6000000238418579
   },
-  "ekqx": {
-    "id": "ekqx",
-    "trackId": "noz",
+  "zoim": {
+    "id": "zoim",
+    "trackId": "taa",
     "typeName": "Dist TUBE-CULTURE",
     "slot": 0,
     "enabled": true,
     "state": {},
     "sidechainSensitivity": 0.6000000238418579
   },
-  "emfu": {
-    "id": "emfu",
-    "trackId": "noz",
+  "dcqt": {
+    "id": "dcqt",
+    "trackId": "taa",
     "typeName": "Console 1",
     "slot": 1,
     "enabled": true,
     "state": {},
     "sidechainSensitivity": 0.6000000238418579
   },
-  "edgn": {
-    "id": "edgn",
-    "trackId": "noz",
+  "czmw": {
+    "id": "czmw",
+    "trackId": "taa",
     "typeName": "tivraStrip",
     "slot": "channelStrip",
     "enabled": true,
@@ -84,27 +84,27 @@
     },
     "sidechainSensitivity": 0.6000000238418579
   },
-  "oyvr": {
-    "id": "oyvr",
-    "trackId": "jpc",
+  "wueg": {
+    "id": "wueg",
+    "trackId": "tab",
     "typeName": "OB-Xd",
     "slot": "instrument",
     "enabled": true,
     "state": {},
     "sidechainSensitivity": 0.6000000238418579
   },
-  "oujq": {
-    "id": "oujq",
-    "trackId": "jpc",
+  "wqdb": {
+    "id": "wqdb",
+    "trackId": "tab",
     "typeName": "Dist TUBE-CULTURE",
     "slot": 0,
     "enabled": true,
     "state": {},
     "sidechainSensitivity": 0.6000000238418579
   },
-  "oxnl": {
-    "id": "oxnl",
-    "trackId": "jpc",
+  "wneu": {
+    "id": "wneu",
+    "trackId": "tab",
     "typeName": "tivraDistortion",
     "slot": 1,
     "enabled": true,
@@ -121,18 +121,18 @@
     },
     "sidechainSensitivity": 0.6000000238418579
   },
-  "mmqi": {
-    "id": "mmqi",
-    "trackId": "jpc",
+  "zbbl": {
+    "id": "zbbl",
+    "trackId": "tab",
     "typeName": "Console 1",
     "slot": 2,
     "enabled": true,
     "state": {},
     "sidechainSensitivity": 0.6000000238418579
   },
-  "mpul": {
-    "id": "mpul",
-    "trackId": "jpc",
+  "ywgg": {
+    "id": "ywgg",
+    "trackId": "tab",
     "typeName": "tivraChorus",
     "slot": 3,
     "enabled": true,
@@ -145,9 +145,9 @@
     },
     "sidechainSensitivity": 0.6000000238418579
   },
-  "kxji": {
-    "id": "kxji",
-    "trackId": "jpc",
+  "crmh": {
+    "id": "crmh",
+    "trackId": "tab",
     "typeName": "tivraAutoPan",
     "slot": 4,
     "enabled": true,
@@ -160,9 +160,9 @@
     },
     "sidechainSensitivity": 0.6000000238418579
   },
-  "lguv": {
-    "id": "lguv",
-    "trackId": "jpc",
+  "cjyi": {
+    "id": "cjyi",
+    "trackId": "tab",
     "typeName": "tivraStrip",
     "slot": "channelStrip",
     "enabled": true,
@@ -214,18 +214,18 @@
     },
     "sidechainSensitivity": 0.6000000238418579
   },
-  "mcjj": {
-    "id": "mcjj",
-    "trackId": "gum",
+  "crll": {
+    "id": "crll",
+    "trackId": "tac",
     "typeName": "Console 1",
     "slot": 0,
     "enabled": true,
     "state": {},
     "sidechainSensitivity": 0.6000000238418579
   },
-  "mdxa": {
-    "id": "mdxa",
-    "trackId": "gum",
+  "ckmo": {
+    "id": "ckmo",
+    "trackId": "tac",
     "typeName": "tivraStrip",
     "slot": "channelStrip",
     "enabled": true,
@@ -277,54 +277,54 @@
     },
     "sidechainSensitivity": 0.6000000238418579
   },
-  "unvs": {
-    "id": "unvs",
-    "trackId": "ddx",
+  "eexr": {
+    "id": "eexr",
+    "trackId": "tad",
     "typeName": "Heartbeat",
     "slot": "instrument",
     "enabled": true,
     "state": {},
     "sidechainSensitivity": 0.6000000238418579
   },
-  "uiap": {
-    "id": "uiap",
-    "trackId": "ddx",
+  "ealc": {
+    "id": "ealc",
+    "trackId": "tad",
     "typeName": "LFOTool",
     "slot": 0,
     "enabled": true,
     "state": {},
     "sidechainSensitivity": 0.6000000238418579
   },
-  "ujog": {
-    "id": "ujog",
-    "trackId": "ddx",
+  "dwkf": {
+    "id": "dwkf",
+    "trackId": "tad",
     "typeName": "Dist TUBE-CULTURE",
     "slot": 1,
     "enabled": true,
     "state": {},
     "sidechainSensitivity": 0.6000000238418579
   },
-  "tckb": {
-    "id": "tckb",
-    "trackId": "ddx",
+  "dtli": {
+    "id": "dtli",
+    "trackId": "tad",
     "typeName": "Fosfat",
     "slot": 2,
     "enabled": true,
     "state": {},
     "sidechainSensitivity": 0.6000000238418579
   },
-  "tfmq": {
-    "id": "tfmq",
-    "trackId": "ddx",
+  "dqjz": {
+    "id": "dqjz",
+    "trackId": "tad",
     "typeName": "Console 1",
     "slot": 3,
     "enabled": true,
     "state": {},
     "sidechainSensitivity": 0.6000000238418579
   },
-  "sxyh": {
-    "id": "sxyh",
-    "trackId": "ddx",
+  "dnbg": {
+    "id": "dnbg",
+    "trackId": "tad",
     "typeName": "tivraStrip",
     "slot": "channelStrip",
     "enabled": true,
@@ -376,54 +376,54 @@
     },
     "sidechainSensitivity": 0.6000000238418579
   },
-  "evph": {
-    "id": "evph",
-    "trackId": "cvy",
+  "epnp": {
+    "id": "epnp",
+    "trackId": "tae",
     "typeName": "Farfisa V",
     "slot": "instrument",
     "enabled": true,
     "state": {},
     "sidechainSensitivity": 0.6000000238418579
   },
-  "exga": {
-    "id": "exga",
-    "trackId": "cvy",
+  "elbq": {
+    "id": "elbq",
+    "trackId": "tae",
     "typeName": "Movement",
     "slot": 0,
     "enabled": true,
     "state": {},
     "sidechainSensitivity": 0.6000000238418579
   },
-  "eofv": {
-    "id": "eofv",
-    "trackId": "cvy",
+  "ehsx": {
+    "id": "ehsx",
+    "trackId": "tae",
     "typeName": "Tape MELLO-FI",
     "slot": 1,
     "enabled": true,
     "state": {},
     "sidechainSensitivity": 0.6000000238418579
   },
-  "erfy": {
-    "id": "erfy",
-    "trackId": "cvy",
+  "eewm": {
+    "id": "eewm",
+    "trackId": "tae",
     "typeName": "Dist TUBE-CULTURE",
     "slot": 2,
     "enabled": true,
     "state": {},
     "sidechainSensitivity": 0.6000000238418579
   },
-  "fglp": {
-    "id": "fglp",
-    "trackId": "cvy",
+  "echl": {
+    "id": "echl",
+    "trackId": "tae",
     "typeName": "Console 1",
     "slot": 3,
     "enabled": true,
     "state": {},
     "sidechainSensitivity": 0.6000000238418579
   },
-  "flaa": {
-    "id": "flaa",
-    "trackId": "cvy",
+  "dzgc": {
+    "id": "dzgc",
+    "trackId": "tae",
     "typeName": "tivraStrip",
     "slot": "channelStrip",
     "enabled": true,
@@ -475,18 +475,18 @@
     },
     "sidechainSensitivity": 0.6000000238418579
   },
-  "aqes": {
-    "id": "aqes",
-    "trackId": "uqd",
+  "flxb": {
+    "id": "flxb",
+    "trackId": "taf",
     "typeName": "Console 1",
     "slot": 0,
     "enabled": true,
     "state": {},
     "sidechainSensitivity": 0.6000000238418579
   },
-  "zhmv": {
-    "id": "zhmv",
-    "trackId": "uqd",
+  "bksy": {
+    "id": "bksy",
+    "trackId": "taf",
     "typeName": "tivraStrip",
     "slot": "channelStrip",
     "enabled": true,
@@ -538,18 +538,18 @@
     },
     "sidechainSensitivity": 0.6000000238418579
   },
-  "prgx": {
-    "id": "prgx",
-    "trackId": "yom",
+  "zqwz": {
+    "id": "zqwz",
+    "trackId": "tag",
     "typeName": "Console 1",
     "slot": 0,
     "enabled": true,
     "state": {},
     "sidechainSensitivity": 0.6000000238418579
   },
-  "puks": {
-    "id": "puks",
-    "trackId": "yom",
+  "dfak": {
+    "id": "dfak",
+    "trackId": "tag",
     "typeName": "tivraStrip",
     "slot": "channelStrip",
     "enabled": true,
@@ -601,9 +601,9 @@
     },
     "sidechainSensitivity": 0.6000000238418579
   },
-  "pnts": {
-    "id": "pnts",
-    "trackId": "vcv",
+  "zsmx": {
+    "id": "zsmx",
+    "trackId": "tah",
     "typeName": "tivraAutoPan",
     "slot": 0,
     "enabled": true,
@@ -616,18 +616,18 @@
     },
     "sidechainSensitivity": 0.6000000238418579
   },
-  "qjdb": {
-    "id": "qjdb",
-    "trackId": "vcv",
+  "ddpo": {
+    "id": "ddpo",
+    "trackId": "tah",
     "typeName": "Console 1",
     "slot": 1,
     "enabled": true,
     "state": {},
     "sidechainSensitivity": 0.6000000238418579
   },
-  "qadu": {
-    "id": "qadu",
-    "trackId": "vcv",
+  "dcpd": {
+    "id": "dcpd",
+    "trackId": "tah",
     "typeName": "tivraStrip",
     "slot": "channelStrip",
     "enabled": true,
@@ -679,18 +679,18 @@
     },
     "sidechainSensitivity": 0.6000000238418579
   },
-  "bdga": {
-    "id": "bdga",
-    "trackId": "acf",
+  "xbag": {
+    "id": "xbag",
+    "trackId": "tai",
     "typeName": "Console 1",
     "slot": 0,
     "enabled": true,
     "state": {},
     "sidechainSensitivity": 0.6000000238418579
   },
-  "ayuh": {
-    "id": "ayuh",
-    "trackId": "acf",
+  "wxst": {
+    "id": "wxst",
+    "trackId": "tai",
     "typeName": "tivraStrip",
     "slot": "channelStrip",
     "enabled": true,
@@ -742,27 +742,27 @@
     },
     "sidechainSensitivity": 0.6000000238418579
   },
-  "qgpx": {
-    "id": "qgpx",
-    "trackId": "rju",
+  "yfui": {
+    "id": "yfui",
+    "trackId": "raa",
     "typeName": "ValhallaRoom",
     "slot": 0,
     "enabled": true,
     "state": {},
     "sidechainSensitivity": 0.6000000238418579
   },
-  "pzge": {
-    "id": "pzge",
-    "trackId": "rju",
+  "ybij": {
+    "id": "ybij",
+    "trackId": "raa",
     "typeName": "Console 1",
     "slot": 1,
     "enabled": true,
     "state": {},
     "sidechainSensitivity": 0.6000000238418579
   },
-  "qcjb": {
-    "id": "qcjb",
-    "trackId": "rju",
+  "xyuo": {
+    "id": "xyuo",
+    "trackId": "raa",
     "typeName": "tivraStrip",
     "slot": "channelStrip",
     "enabled": true,
@@ -814,27 +814,27 @@
     },
     "sidechainSensitivity": 0.6000000238418579
   },
-  "phmv": {
-    "id": "phmv",
-    "trackId": "rtm",
+  "xmpb": {
+    "id": "xmpb",
+    "trackId": "rab",
     "typeName": "ValhallaRoom",
     "slot": 0,
     "enabled": true,
     "state": {},
     "sidechainSensitivity": 0.6000000238418579
   },
-  "pkpk": {
-    "id": "pkpk",
-    "trackId": "rtm",
+  "xjoi": {
+    "id": "xjoi",
+    "trackId": "rab",
     "typeName": "Console 1",
     "slot": 1,
     "enabled": true,
     "state": {},
     "sidechainSensitivity": 0.6000000238418579
   },
-  "pbpf": {
-    "id": "pbpf",
-    "trackId": "rtm",
+  "xinx": {
+    "id": "xinx",
+    "trackId": "rab",
     "typeName": "tivraStrip",
     "slot": "channelStrip",
     "enabled": true,
@@ -886,8 +886,8 @@
     },
     "sidechainSensitivity": 0.6000000238418579
   },
-  "pnzp": {
-    "id": "pnzp",
+  "wxuw": {
+    "id": "wxuw",
     "trackId": "rac",
     "typeName": "tivraDelay",
     "slot": 0,
@@ -911,8 +911,8 @@
     },
     "sidechainSensitivity": 0.6000000238418579
   },
-  "szqa": {
-    "id": "szqa",
+  "purj": {
+    "id": "purj",
     "trackId": "rac",
     "typeName": "Console 1",
     "slot": 1,
@@ -920,8 +920,8 @@
     "state": {},
     "sidechainSensitivity": 0.6000000238418579
   },
-  "tcsx": {
-    "id": "tcsx",
+  "psdo": {
+    "id": "psdo",
     "trackId": "rac",
     "typeName": "tivraStrip",
     "slot": "channelStrip",
