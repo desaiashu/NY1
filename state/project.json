@@ -1,0 +1,18 @@
+{
+  "metadata": {
+    "id": "yjwpph",
+    "name": "NY1",
+    "createdAt": "",
+    "modifiedAt": ""
+  },
+  "markers": {},
+  "regions": {},
+  "engineConfig": {
+    "sampleRate": 48000.0,
+    "bufferSize": 512
+  },
+  "trackAppearance": {},
+  "embeddedTemplates": {},
+  "videoFilePath": null,
+  "spaces": []
+}

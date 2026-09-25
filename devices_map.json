@@ -1,0 +1,225 @@
+{
+ "1-Am - Tisnat_Moonrock [2023-04-26 195658]": {
+  "instrument": "tivraSampler",
+  "fx": [
+   "Dist TUBE-CULTURE",
+   "Console 1"
+  ],
+  "devices": [
+   {
+    "device": "OriginalSimpler",
+    "role": "instrument",
+    "node": "tivraSampler",
+    "bestGuess": false
+   },
+   {
+    "device": "Dist TUBE-CULTURE",
+    "role": "fx",
+    "node": "Dist TUBE-CULTURE",
+    "bestGuess": false
+   },
+   {
+    "device": "Console 1",
+    "role": "fx",
+    "node": "Console 1",
+    "bestGuess": false
+   }
+  ]
+ },
+ "3-OB-Xd 2-Group": {
+  "instrument": "OB-Xd",
+  "fx": [
+   "Dist TUBE-CULTURE",
+   "tivraDistortion",
+   "Console 1",
+   "tivraChorus",
+   "tivraAutoPan"
+  ],
+  "devices": [
+   {
+    "device": "OB-Xd",
+    "role": "instrument",
+    "node": "OB-Xd",
+    "bestGuess": false
+   },
+   {
+    "device": "BeatRepeat",
+    "role": "gap",
+    "node": null,
+    "bestGuess": false
+   },
+   {
+    "device": "Dist TUBE-CULTURE",
+    "role": "fx",
+    "node": "Dist TUBE-CULTURE",
+    "bestGuess": false
+   },
+   {
+    "device": "Roar",
+    "role": "fx",
+    "node": "tivraDistortion",
+    "bestGuess": true
+   },
+   {
+    "device": "Console 1",
+    "role": "fx",
+    "node": "Console 1",
+    "bestGuess": false
+   },
+   {
+    "device": "Chorus2",
+    "role": "fx",
+    "node": "tivraChorus",
+    "bestGuess": false
+   },
+   {
+    "device": "AutoPan",
+    "role": "fx",
+    "node": "tivraAutoPan",
+    "bestGuess": false
+   },
+   {
+    "device": "StereoGain",
+    "role": "strip",
+    "node": "tivraStrip",
+    "bestGuess": false
+   }
+  ]
+ },
+ "Audio 2-Group": {
+  "instrument": null,
+  "fx": [
+   "Console 1"
+  ],
+  "devices": [
+   {
+    "device": "Console 1",
+    "role": "fx",
+    "node": "Console 1",
+    "bestGuess": false
+   }
+  ]
+ },
+ "5-Heartbeat": {
+  "instrument": "Heartbeat",
+  "fx": [
+   "LFOTool",
+   "Dist TUBE-CULTURE",
+   "Fosfat",
+   "Console 1"
+  ],
+  "devices": [
+   {
+    "device": "Heartbeat",
+    "role": "instrument",
+    "node": "Heartbeat",
+    "bestGuess": false
+   },
+   {
+    "device": "MxDeviceAudioEffect",
+    "role": "gap",
+    "node": null,
+    "bestGuess": false
+   },
+   {
+    "device": "LFOTool",
+    "role": "fx",
+    "node": "LFOTool",
+    "bestGuess": false
+   },
+   {
+    "device": "Dist TUBE-CULTURE",
+    "role": "fx",
+    "node": "Dist TUBE-CULTURE",
+    "bestGuess": false
+   },
+   {
+    "device": "Fosfat",
+    "role": "fx",
+    "node": "Fosfat",
+    "bestGuess": false
+   },
+   {
+    "device": "Console 1",
+    "role": "fx",
+    "node": "Console 1",
+    "bestGuess": false
+   }
+  ]
+ },
+ "6-Farfisa V": {
+  "instrument": "Farfisa V",
+  "fx": [
+   "Movement",
+   "Tape MELLO-FI",
+   "Dist TUBE-CULTURE",
+   "Console 1"
+  ],
+  "devices": [
+   {
+    "device": "Farfisa V",
+    "role": "instrument",
+    "node": "Farfisa V",
+    "bestGuess": false
+   },
+   {
+    "device": "Movement",
+    "role": "fx",
+    "node": "Movement",
+    "bestGuess": false
+   },
+   {
+    "device": "Tape MELLO-FI",
+    "role": "fx",
+    "node": "Tape MELLO-FI",
+    "bestGuess": false
+   },
+   {
+    "device": "MxDeviceAudioEffect",
+    "role": "gap",
+    "node": null,
+    "bestGuess": false
+   },
+   {
+    "device": "Dist TUBE-CULTURE",
+    "role": "fx",
+    "node": "Dist TUBE-CULTURE",
+    "bestGuess": false
+   },
+   {
+    "device": "Console 1",
+    "role": "fx",
+    "node": "Console 1",
+    "bestGuess": false
+   }
+  ]
+ },
+ "Audio": {
+  "instrument": null,
+  "fx": [
+   "Console 1"
+  ],
+  "devices": [
+   {
+    "device": "Console 1",
+    "role": "fx",
+    "node": "Console 1",
+    "bestGuess": false
+   }
+  ]
+ },
+ "_returns": {
+  "A-Long Reverb": [
+   "ValhallaRoom",
+   "Console 1"
+  ],
+  "B-Short Reverb": [
+   "ValhallaRoom",
+   "Console 1"
+  ],
+  "C-Delay - Console 1": [
+   "tivraDelay",
+   "Console 1"
+  ]
+ }
+}

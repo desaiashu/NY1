@@ -1,0 +1,171 @@
+{
+  "name": "NY1",
+  "bpm": 127.0,
+  "scale": {
+    "division": "12tet",
+    "system": "western",
+    "root": "C",
+    "mode": "chromatic",
+    "justAnchor": false
+  },
+  "timeSigNumerator": 4,
+  "timeSigDenominator": 4,
+  "tracks": {
+    "noz": {
+      "id": "noz",
+      "name": "1-Am - Tisnat_Moonrock [2023-04-26 195658]",
+      "trackType": "midi",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
+    },
+    "jpc": {
+      "id": "jpc",
+      "name": "3-OB-Xd 2-Group",
+      "trackType": "midi",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
+    },
+    "gum": {
+      "id": "gum",
+      "name": "Audio 2-Group",
+      "trackType": "audio",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
+    },
+    "ddx": {
+      "id": "ddx",
+      "name": "5-Heartbeat",
+      "trackType": "midi",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
+    },
+    "cvy": {
+      "id": "cvy",
+      "name": "6-Farfisa V",
+      "trackType": "midi",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
+    },
+    "uqd": {
+      "id": "uqd",
+      "name": "Audio",
+      "trackType": "audio",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
+    },
+    "yom": {
+      "id": "yom",
+      "name": "Audio",
+      "trackType": "audio",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
+    },
+    "vcv": {
+      "id": "vcv",
+      "name": "Audio",
+      "trackType": "audio",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
+    },
+    "acf": {
+      "id": "acf",
+      "name": "Audio",
+      "trackType": "audio",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
+    },
+    "rju": {
+      "id": "rju",
+      "name": "A-Long Reverb",
+      "trackType": "return",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
+    },
+    "rtm": {
+      "id": "rtm",
+      "name": "B-Short Reverb",
+      "trackType": "return",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
+    },
+    "rac": {
+      "id": "rac",
+      "name": "C-Delay - Console 1",
+      "trackType": "return",
+      "auditionLane": null,
+      "takeLaneCount": 0,
+      "audioFlipped": false,
+      "dubState": "empty",
+      "audioTakeLaneCount": 0
+    }
+  },
+  "trackOrder": [
+    "noz",
+    "jpc",
+    "gum",
+    "ddx",
+    "cvy",
+    "uqd",
+    "yom",
+    "vcv",
+    "acf",
+    "rju",
+    "rtm",
+    "rac"
+  ],
+  "groups": {},
+  "sections": {
+    "szq": {
+      "id": "szq",
+      "name": "song",
+      "startBeat": 0.0,
+      "lengthBeats": 704.0,
+      "scale": null,
+      "activeVariation": 0,
+      "variationCount": 0
+    }
+  },
+  "tempoMarkers": [],
+  "keyMarkers": [],
+  "timeSigMarkers": [],
+  "spatialMode": false,
+  "rendererOutputMode": "binaural",
+  "speakerMaps": {},
+  "speakerLevels": {},
+  "speakerMutes": {},
+  "outputBusGains": {},
+  "outputBusMutes": {}
+}
