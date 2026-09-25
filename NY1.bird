@@ -4,16 +4,16 @@ sig
   scale C chromatic
 
 arr
-  song 176 |szq
+  song 176 |juk
 
 tracks
-  1 1-Am - Tisnat_Moonrock [2023-04-26 195658] |noz
+  1 1-Am - Tisnat_Moonrock [2023-04-26 195658] |taa
     type midi
     plugin tivraSampler
     fx Dist TUBE-CULTURE
     fx2 Console 1
     strip tivraStrip
-  2 3-OB-Xd 2-Group |jpc
+  2 3-OB-Xd 2-Group |tab
     type midi
     plugin OB-Xd
     fx Dist TUBE-CULTURE
@@ -22,11 +22,11 @@ tracks
     fx4 tivraChorus
     fx5 tivraAutoPan
     strip tivraStrip
-  3 Audio 2-Group |gum
+  3 Audio 2-Group |tac
     type audio
     fx Console 1
     strip tivraStrip
-  4 5-Heartbeat |ddx
+  4 5-Heartbeat |tad
     type midi
     plugin Heartbeat
     fx LFOTool
@@ -34,7 +34,7 @@ tracks
     fx3 Fosfat
     fx4 Console 1
     strip tivraStrip
-  5 6-Farfisa V |cvy
+  5 6-Farfisa V |tae
     type midi
     plugin Farfisa V
     fx Movement
@@ -42,30 +42,30 @@ tracks
     fx3 Dist TUBE-CULTURE
     fx4 Console 1
     strip tivraStrip
-  6 Audio |uqd
+  6 Audio |taf
     type audio
     fx Console 1
     strip tivraStrip
-  7 Audio |yom
+  7 Audio |tag
     type audio
     fx Console 1
     strip tivraStrip
-  8 Audio |vcv
+  8 Audio |tah
     type audio
     fx tivraAutoPan
     fx2 Console 1
     strip tivraStrip
-  9 Audio |acf
+  9 Audio |tai
     type audio
     fx Console 1
     strip tivraStrip
 
 returns
-  0 A-Long Reverb |rju
+  0 A-Long Reverb |raa
     fx ValhallaRoom
     fx2 Console 1
     strip tivraStrip
-  1 B-Short Reverb |rtm
+  1 B-Short Reverb |rab
     fx ValhallaRoom
     fx2 Console 1
     strip tivraStrip
@@ -75,48 +75,57 @@ returns
     strip tivraStrip
 
 sec song
-  trk 1 1-Am - Tisnat_Moonrock [2023-04-26 195658] |noz
+  trk 1 1-Am - Tisnat_Moonrock [2023-04-26 195658] |taa
     c 0:0 15:192 |zaaa
+      lp 0:0 1:0
       p x _xxd x _xxd x _xxd x _w14 _h _xxd
         v 100
         n G3
     c 16:0 8:0 |zaab
+      lp 0:0 1:0
       p x _xxd x _xxd x _xxd x _w7 _xxd
         v 100
         n G3
     c 32:0 16:0 |zaac
+      lp 0:0 1:0
       p x _xxd x _xxd x _xxd x _w15 _xxd
         v 100
         n G3
     c 64:0 15:192 |zaad
+      lp 0:0 1:0
       p x _xxd x _xxd x _xxd x _w14 _h _xxd
         v 100
         n G3
     c 80:0 15:0 |zaae
+      lp 0:0 1:0
       p x _xxd x _xxd x _xxd x _w14 _xxd
         v 100
         n G3
     c 96:0 80:0 |zaaf
+      lp 0:0 1:0
       p x _xxd x _xxd x _xxd x _w79 _xxd
         v 100
         n G3
-  trk 2 3-OB-Xd 2-Group |jpc
+  trk 2 3-OB-Xd 2-Group |tab
     c 0:0 47:0 |zaag
-      p _xx s _xx _s s _xx _s s _q _x _s s _xx _s s _hd _s s _s s _xx _s s _xx _s s _s s _xx _s s _xx _s s _s s _xx _s s _xx _s s _s s _xx _s s _xx _s s _s s _xx _s s _xx _s s _s s _xx _s s _xx _s s _s s _xx _s s _xx _s s _s s _xx _s s _xx _s s _s s _xx _s s _xx _s s _s s _xx _s s _xx _s s _s s _xx _s s _xx _s s _w40 _q _s
+      lp 0:0 0:96
+      p _xx s _w46 _hd _x _s
         v 100
-        n C3 C4 C3 C3 C4 F4 C3 C4 F4 C3 C4 F4 C3 C4 F4 C3 C4 F4 C3 C4 F4 C3 C4 F4 C3 C4 F4 C3 C4 F4 C3 C4 F4 C3 C4 F4 C3 C4 F4
-        t 0:6 0:-9 0:-9 0:-9 0:-9 0:-9 0:-9 0:-9 0:-9 0:-9 0:-9 0:-9 0:-9 0:-9 0:-9 0:-9 0:-9 0:-9 0:-9 0:-9 0:-9 0:-9 0:-9 0:-9 0:-9 0:-9 0:-9 0:-9 0:-9 0:-9 0:-9 0:-9 0:-9 0:-9 0:-9 0:-9 0:-9 0:-9 0:-9
+        n C3
+        t 0:6
     c 56:0 39:0 |zaah
-      p s _xx _s s _xxd _s s _xx _s s _x _s s _xxd _s s _xx _s s _xx _s s _s s _xx _s s _x _s s _w3 _h _xx _s s _xx _s s _s s _xx _s s _xx _s s _s s _xx _s s _xx _s s _s s _xx _s s _xx _s s _w32 _s
+      lp 0:0 2:0
+      p s _xx _s s _xxd _s s _xx _s s _x _s s _xxd _s s _xx _s s _xx _s s _s s _xx _s s _x _s s _w37 _xxd _s
         v 100
-        n C3 C4 C#3 C4 F4 C3 C4 F4 C#3 C4 F4 C4 F4 C3 C4 F4 C3 C4 F4 C3 C4 F4
+        n C3 C4 C#3 C4 F4 C3 C4 F4 C#3 C4 F4
         t 0:-9
     c 96:0 56:0 |zaai
-      p s _xx _s s _x _s s _s s _s s _xx _s s _x _s s _x _s s _x _s s _s s _x _s s _xx _s s _x _s s _xx _s s _s s _xx _s s _xx _s s _s s _xx _s s _xx _s s _s s _xx _s s _xx _s s _s s _xx _s s _xx _s s _s s _xx _s s _xx _s s _s s _xx _s s _xx _s s _s s _xx _s s _xx _s s _s s _xx _s s _xx _s s _s s _xx _s s _xx _s s _s s _xx _s s _xx _s s _s s _xx _s s _xx _s s _s s _xx _s s _xx _s s _w49 _s
+      lp 0:0 1:192
+      p s _xx _s s _x _s s _s s _s s _xx _s s _x _s s _x _s s _x _s s _s s _x _s s _xx _s s _w54 _h _x _s
         v 100
-        n C3 C4 F3 F4 C#3 C4 F4 F3 G3 C4 C3 A#3 C4 F4 C3 C4 F4 C3 C4 F4 C3 C4 F4 C3 C4 F4 C3 C4 F4 C3 C4 F4 C3 C4 F4 C3 C4 F4 C3 C4 F4 C3 C4 F4 C3 C4 F4 C3 C4 F4
+        n C3 C4 F3 F4 C#3 C4 F4 F3 G3 C4 C3 A#3
         t 0:-9
-  trk 3 Audio 2-Group |gum
+  trk 3 Audio 2-Group |tac
     c 2:0 0:144 |zaaj
       'samples/Audio 0001 [2025-08-13 234149].aif'
     c 4:0 0:192 |zaak
@@ -153,34 +162,40 @@ sec song
     c 95:0 57:0 |zaay
       'samples/Audio 0001 [2025-08-13 234149].aif'
       o 55:0
-  trk 4 5-Heartbeat |ddx
+  trk 4 5-Heartbeat |tad
     c 0:0 15:192 |zaaz
+      lp 0:0 1:0
       p _xx s _xxd _s s _xxd _s s _xxd _s s _w14 _h _x _s
         v 100
         n C3
         t 0:2
     c 16:0 40:0 |zaba
+      lp 0:0 1:0
       p _xx s _xxd _s s _xxd _s s _xxd _s s _w39 _x _s
         v 100
         n C3
         t 0:2
     c 56:0 8:0 |zabb
+      lp 0:0 1:0
       p _xx s _xxd _s s _xxd _s s _xxd _s s _w7 _x _s
         v 100
         n C3
         t 0:2
     c 64:0 30:288 |zabc
+      lp 0:0 1:0
       p _xx s _s s _x _s s _s s _s s _xx _s s _s s _x _s s _s s _w29 _hd _x _s
         v 100
         n C3 C2 D#3 C3 C2 C3 C2 C2 C3
         t 0:2
     c 96:0 80:0 |zabd
+      lp 0:0 1:0
       p _xx s _s s _x _s s _s s _s s _xx _s s _s s _x _s s _s s _w79 _x _s
         v 100
         n C3 C2 D#3 C3 C2 C3 C2 C2 C3
         t 0:2
-  trk 5 6-Farfisa V |cvy
+  trk 5 6-Farfisa V |tae
     c 32:0 24:0 |zabe
+      lp 0:0 1:0
       p w _w23
         v 1
         n C4
@@ -188,6 +203,7 @@ sec song
         v 127
         n F4 C#4 D#4
     c 56:0 8:0 |zabf
+      lp 0:0 1:0
       p w _w7
         v 1
         n C4
@@ -195,19 +211,20 @@ sec song
         v 127
         n F4 C#4 D#4
     c 64:0 80:0 |zabg
+      lp 0:0 1:0
       p w _w79
         v 1
         n C4
       p _q _x x _x x _xx x _w79 _q _x
         v 127
         n F4 C#4 D#4
-  trk 6 Audio |uqd
+  trk 6 Audio |taf
     c 0:0 16:0 |zabh
       'samples/Audio 0001 [2025-08-13 231751].aif'
     c 32:0 144:0 |zabi
       'samples/Audio 0001 [2025-08-13 231751].aif'
       o 32:0
-  trk 7 Audio |yom
+  trk 7 Audio |tag
     c 0:0 3:0 |zabj
       'samples/Audio 0001 [2025-08-13 231750]-1.aif'
       o 96:0
@@ -224,9 +241,10 @@ sec song
       'samples/Audio 0001 [2025-08-13 231750]-1.aif'
       o 109:192
     c 32:0 144:0 |zabo
+      lp 96:0 112:0
       'samples/Audio 0001 [2025-08-13 231750]-1.aif'
       o 96:0
-  trk 8 Audio |vcv
+  trk 8 Audio |tah
     c 0:0 0:192 |zabp
       'samples/Audio 0001 [2025-08-13 231750].aif'
       o 32:0
@@ -249,17 +267,19 @@ sec song
       'samples/Audio 0001 [2025-08-13 231750].aif'
       o 34:0
     c 80:0 8:0 |zabw
+      lp 52:0 52:72
       'samples/Audio 0001 [2025-08-13 231750].aif'
       o 52:48
       g 0.73
     c 88:0 7:0 |zabx
+      lp 52:72 52:144
       'samples/Audio 0001 [2025-08-13 231750].aif'
       o 52:96
       g 1.50
     c 106:0 14:0 |zaby
       'samples/Audio 0001 [2025-08-13 231750].aif'
       o 42:0
-  trk 9 Audio |acf
+  trk 9 Audio |tai
     c 72:0 16:0 |zabz
       'samples/Dm - Crumble [2023-04-26 201908].aif'
       g 1.46
