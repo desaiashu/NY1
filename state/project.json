@@ -14,5 +14,10 @@
   "trackAppearance": {},
   "embeddedTemplates": {},
   "videoFilePath": null,
-  "spaces": []
+  "spaces": [
+    {
+      "id": "space-7519f2af",
+      "view": "perform"
+    }
+  ]
 }
