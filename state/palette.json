@@ -26,6 +26,22 @@
         "audioStack": null,
         "midiStack": null
       }
+    },
+    "nuop": {
+      "nodeId": "nuop",
+      "typeId": "plugin",
+      "position": [
+        1214.4937744140625,
+        448.20001220703125
+      ],
+      "refId": "tivraDoubler",
+      "params": {},
+      "chainLoop": false,
+      "chainMuted": false,
+      "chainSolo": false,
+      "triggered": false,
+      "bypassed": false,
+      "macroParams": []
     }
   },
   "connections": []
