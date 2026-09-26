@@ -50,6 +50,12 @@
       "fromPort": 0,
       "toNode": "seah",
       "toPort": 1
+    },
+    {
+      "fromNode": "nuop",
+      "fromPort": 1,
+      "toNode": "seah",
+      "toPort": 2
     }
   ]
 }
