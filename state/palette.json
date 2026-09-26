@@ -1,4 +1,32 @@
 {
-  "nodes": {},
+  "nodes": {
+    "seah": {
+      "nodeId": "seah",
+      "typeId": "record",
+      "position": [
+        100.0,
+        100.0
+      ],
+      "refId": null,
+      "params": {},
+      "chainLoop": false,
+      "chainMuted": false,
+      "chainSolo": false,
+      "triggered": false,
+      "bypassed": false,
+      "macroParams": [],
+      "record": {
+        "mode": "audio",
+        "armed": false,
+        "lengthBars": null,
+        "quantizeBars": 1,
+        "midi": false,
+        "mono": false,
+        "previewing": false,
+        "audioStack": null,
+        "midiStack": null
+      }
+    }
+  },
   "connections": []
 }
