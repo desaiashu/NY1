@@ -44,5 +44,12 @@
       "macroParams": []
     }
   },
-  "connections": []
+  "connections": [
+    {
+      "fromNode": "nuop",
+      "fromPort": 0,
+      "toNode": "seah",
+      "toPort": 1
+    }
+  ]
 }
