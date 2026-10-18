@@ -58,6 +58,7 @@ tracks
   9 Audio |tai
     type audio
     fx Console 1
+    fx3 tivraVibeFX
     strip tivraStrip
 
 returns
