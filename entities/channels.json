@@ -2,6 +2,8 @@
   "taa": {
     "gain": 1.0,
     "pan": 0.0,
+    "inputGainDb": 0.0,
+    "preampModel": "clean",
     "muted": false,
     "solo": false,
     "spatial": {
@@ -15,6 +17,8 @@
   "tab": {
     "gain": 1.0,
     "pan": 0.0,
+    "inputGainDb": 0.0,
+    "preampModel": "clean",
     "muted": false,
     "solo": false,
     "spatial": {
@@ -28,6 +32,8 @@
   "tac": {
     "gain": 1.0,
     "pan": 0.0,
+    "inputGainDb": 0.0,
+    "preampModel": "clean",
     "muted": false,
     "solo": false,
     "spatial": {
@@ -41,6 +47,8 @@
   "tad": {
     "gain": 1.0,
     "pan": 0.0,
+    "inputGainDb": 0.0,
+    "preampModel": "clean",
     "muted": false,
     "solo": false,
     "spatial": {
@@ -54,6 +62,8 @@
   "tae": {
     "gain": 1.0,
     "pan": 0.0,
+    "inputGainDb": 0.0,
+    "preampModel": "clean",
     "muted": false,
     "solo": false,
     "spatial": {
@@ -67,6 +77,8 @@
   "taf": {
     "gain": 1.0,
     "pan": 0.0,
+    "inputGainDb": 0.0,
+    "preampModel": "clean",
     "muted": false,
     "solo": false,
     "spatial": {
@@ -80,6 +92,8 @@
   "tag": {
     "gain": 1.0,
     "pan": 0.0,
+    "inputGainDb": 0.0,
+    "preampModel": "clean",
     "muted": false,
     "solo": false,
     "spatial": {
@@ -93,6 +107,8 @@
   "tah": {
     "gain": 1.0,
     "pan": 0.0,
+    "inputGainDb": 0.0,
+    "preampModel": "clean",
     "muted": false,
     "solo": false,
     "spatial": {
@@ -106,6 +122,8 @@
   "tai": {
     "gain": 1.0,
     "pan": 0.0,
+    "inputGainDb": 0.0,
+    "preampModel": "clean",
     "muted": false,
     "solo": false,
     "spatial": {
